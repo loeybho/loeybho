@@ -1,7 +1,22 @@
-## Hi there 👋
+## Hi there I am Oh Byeol 👋
+⭐️⭐️⭐️⭐️🌟
 
 📃 포트폴리오
 https://byolsfolio.netlify.app/
+
+### 기술스택
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+                  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+                  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+                  <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+                  <img src="https://img.shields.io/badge/Swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=white" />
+                  <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=react&logoColor=white" />
+                  <img src="https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" />
+                  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+                  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 
 <!--
 **loeybho/loeybho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
